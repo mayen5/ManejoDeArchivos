@@ -1,0 +1,3 @@
+
+Estamos leyendo un archivo con C# en el curso de Algoritmos
+UMG Chiquimulilla 2023

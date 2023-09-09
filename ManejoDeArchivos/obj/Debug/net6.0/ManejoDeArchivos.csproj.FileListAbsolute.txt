@@ -1,0 +1,14 @@
+D:\Users\cmayen\source\repos\ManejoDeArchivos\ManejoDeArchivos\bin\Debug\net6.0\ManejoDeArchivos.exe
+D:\Users\cmayen\source\repos\ManejoDeArchivos\ManejoDeArchivos\bin\Debug\net6.0\ManejoDeArchivos.deps.json
+D:\Users\cmayen\source\repos\ManejoDeArchivos\ManejoDeArchivos\bin\Debug\net6.0\ManejoDeArchivos.runtimeconfig.json
+D:\Users\cmayen\source\repos\ManejoDeArchivos\ManejoDeArchivos\bin\Debug\net6.0\ManejoDeArchivos.dll
+D:\Users\cmayen\source\repos\ManejoDeArchivos\ManejoDeArchivos\bin\Debug\net6.0\ManejoDeArchivos.pdb
+D:\Users\cmayen\source\repos\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net6.0\ManejoDeArchivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\cmayen\source\repos\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net6.0\ManejoDeArchivos.AssemblyInfoInputs.cache
+D:\Users\cmayen\source\repos\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net6.0\ManejoDeArchivos.AssemblyInfo.cs
+D:\Users\cmayen\source\repos\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net6.0\ManejoDeArchivos.csproj.CoreCompileInputs.cache
+D:\Users\cmayen\source\repos\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net6.0\ManejoDeArchivos.dll
+D:\Users\cmayen\source\repos\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net6.0\refint\ManejoDeArchivos.dll
+D:\Users\cmayen\source\repos\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net6.0\ManejoDeArchivos.pdb
+D:\Users\cmayen\source\repos\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net6.0\ManejoDeArchivos.genruntimeconfig.cache
+D:\Users\cmayen\source\repos\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net6.0\ref\ManejoDeArchivos.dll
