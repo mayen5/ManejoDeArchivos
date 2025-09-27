@@ -4,7 +4,7 @@ using System.Threading.Channels;
 
 class Program
 {
-    public static string path = @"D:\Users\cmayen\source\repos\ManejoDeArchivos\ManejoDeArchivos\Archivos\";
+    public static string path = @"D:\Repos\.net\ManejoDeArchivos\ManejoDeArchivos";
 
     public static void leerArchivo()
     {
@@ -137,7 +137,7 @@ class Program
     public static void crearCarpeta()
     {
         string nombreCarpeta = "OtrosArchivos";
-        string pathPrincipal = @"D:\Users\cmayen\source\repos\ManejoDeArchivos\ManejoDeArchivos";
+        string pathPrincipal = @"D:\Repos\.net\ManejoDeArchivos\ManejoDeArchivos";
 
         string rutaCompleta = Path.Combine(pathPrincipal, nombreCarpeta);
 

@@ -1,0 +1,78 @@
+## Archivos y carpetas de Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build y binarios
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Tt]emp/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.mdb
+
+## Archivos de publicación
+*.publishsettings
+*.pubxml
+*.pubxml.user
+*.Publish.xml
+
+## Paquetes NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.nuget.props
+*.nuget.targets
+
+## Archivos de configuración locales
+appsettings.Development.json
+appsettings.Local.json
+*.secret.json
+
+## Archivos generados por herramientas
+*.dbmdl
+*.bak
+*.ldf
+*.mdf
+
+## Archivos de test y coverage
+TestResult*/
+[TestResults]/
+*.coverage
+*.coveragexml
+*.codecoverage
+
+## Archivos de usuario y OS
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+## Archivos de Rider / JetBrains (si usas ReSharper u otros)
+.idea/
+*.DotSettings.user
+
+## Archivos de GitHub Copilot
+.copilot/
+.copilot-logs/
+*.copilot.*
+copilot.*.tmp
+copilot-*.json
+
+## Archivos temporales de MSBuild
+*.tlog
+*.lastbuildstate
+*.FileListAbsolute.txt
+
+## Archivos de configuración específicos de máquina
+launchSettings.json
